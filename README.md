@@ -9,11 +9,9 @@ John Chesley Adams's public folder, served at
 - One folder per tool inside its project.
 - Lowercase names with hyphens, so web addresses stay clean.
 
-| Folder | What it is | Built from |
-|---|---|---|
-| `/` | Projects index | this repository |
-| `gembook/` | GemBook's public tools | this repository |
-| `gembook/look-tuner/` | The GemBook Look Tuner web app, plus `GemBook_Look_Tuner.html`, the same tool as one file | GemBook: `python scripts/build_look_tuner.py --site <this clone>` |
+Nothing is published here right now. The only file left,
+`gembook/look-tuner/sw.js`, removes a copy installed earlier from a phone or
+computer the next time it is opened, and then removes itself.
 
 ## Rules
 
